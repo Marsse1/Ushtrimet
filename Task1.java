@@ -14,6 +14,7 @@ public class Task1 {
 
         System.out.println("Perimetri= " + perimetri);
         System.out.println("Perimetri 2= " + perimetri2);
+        System.out.println("test");
 
     }
 }
